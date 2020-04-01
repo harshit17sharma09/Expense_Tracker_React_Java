@@ -1,4 +1,4 @@
-package com.example.expense.repository;
+ package com.example.expense.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

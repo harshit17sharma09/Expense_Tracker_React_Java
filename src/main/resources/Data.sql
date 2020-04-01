@@ -12,6 +12,6 @@ insert into category values (3 ,'Student Loan')
 
 
 
-insert into expense values (100,'New York','2019-06-16T17:00:00.000Z',1,1)
-insert into expense values (101,'Ford Mushtang','2019-06-15T15:00:00.000Z',2,2)
-insert into expense values (102,'Grand Canyon','2019-06-14T15:00:00.000Z',3,1)
+insert into expense values (100,'New York trip','2019-06-16T17:00:00.000Z','New york',1,1)
+insert into expense values (101,'Ford Mushtang','2019-06-15T15:00:00.000Z','Los angeles',2,2)
+insert into expense values (102,'Grand Canyon','2019-06-14T15:00:00.000Z','Los angeles',3,1)
