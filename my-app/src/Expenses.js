@@ -9,6 +9,19 @@ import {Container,Input,Button,Label,FormGroup,Form} from 'reactstrap';
 import {Link} from 'react-router-dom';
 
 class Expenses  extends Component {
+
+    // {"id":100,
+    // "expensedate":"2019-06-16T17:00:00Z",
+    // "descript":"New York trip",
+    // "category":{
+    //   "id":1,
+    // "name":"Travel"},
+    // "location":"New york"
+    // }
+
+
+
+
     state = { 
         date : new Date(),
         isLoading : true ,
